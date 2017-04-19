@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="http://er3.aquael.pl:8002/sap/bc/srt/wsdl/sdef_Z_HELLO_WORLD_2/wsdl11/ws_policy/document?sap-client=010" filename="document.wsdl" />
+  </Results>
+</DiscoveryClientResultsFile>
